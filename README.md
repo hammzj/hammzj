@@ -1,8 +1,8 @@
-# Who I am
+# Zachary Hamm
+
+## Who I am
 
 🌜🎶🎵🌛
-
-# Zachary Hamm
 
 - automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
 - former athlete still striving to be competitive
@@ -13,7 +13,7 @@
 - too much to name
 
 
-## Focused in
+#### Focused in
 - unit and integration test framework design
 - continuous delivery integration for development, testing, reporting, and deployment
 - test reporting and quality engineering
@@ -22,18 +22,18 @@
 
 
 
-## Where I've worked
+### Where I've worked
 
-[![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-white?style=flat-square&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
+[![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=flat-square&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
 
-[![Nationwide Insurance Company](https://img.shields.io/badge/Nationwide%20Insurance%20Company-Senior%20Application%20Developer-white?style=flat-square&labelColor=0047bb)](https://www.nationwide.com/)
+[![Nationwide Insurance Company](https://img.shields.io/badge/Nationwide%20Insurance%20Company-Senior%20Application%20Developer-F5F5F5?style=flat-square&labelColor=0047bb)](https://www.nationwide.com/)
 
-[![Huntington National Bank](https://img.shields.io/badge/Huntington%20National%20Bank-Automation%20Developer%20Analyst-white?style=flat-square&labelColor=rgb(91%2C%20166%2C%2069))](https://www.huntington.com/)
+[![Huntington National Bank](https://img.shields.io/badge/Huntington%20National%20Bank-Automation%20Developer%20Analyst-F5F5F5?style=flat-square&labelColor=rgb(91%2C%20166%2C%2069))](https://www.huntington.com/)
 
-![Ohio Valley Medical Center, Inc.](https://img.shields.io/badge/Ohio%20Valley%20Medical%20Center%2C%20Inc.-Data%20Analyst-white?style=flat-square&labelColor=rgb(0%2C72%2C46))
+![Ohio Valley Medical Center, Inc.](https://img.shields.io/badge/Ohio%20Valley%20Medical%20Center%2C%20Inc.-Data%20Analyst-F5F5F5?style=flat-square&labelColor=rgb(0%2C72%2C46))
 
 
-## Where I've studied
+### Where I've studied
 
 [![Wheeling Jesuit University](https://img.shields.io/badge/University-Wheeling%20Jesuit%20Univeristy-%23d90937?style=flat-square)](https://wheeling.edu/)
 - Bachelors of Science in Computer Science
@@ -44,7 +44,7 @@
 
 ***
 
-# What I use
+## What I use
 
 ### Languages
 
@@ -106,9 +106,9 @@
 
 ***
 
-# Contact Me
+## Contact Me
 
-#### About
+### About
 
 
 - open-source contributions
@@ -121,11 +121,11 @@
 
 
 
-[![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-white?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
-[![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-white?style=flat-square&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/zjhamm)
+[![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-F5F5F5?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-F5F5F5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
+[![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-F5F5F5?style=flat-square&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/zjhamm)
 
-[![Spotify Artist](https://img.shields.io/badge/Spotify-Antisocial%20Rebellion-white?&style=flat-square&logo=spotify&logoColor=1ED760)](https://open.spotify.com/artist/6MPyQEZvgsZSYtJ3NXLmWM)
+[![Spotify Artist](https://img.shields.io/badge/Spotify-Antisocial%20Rebellion-F5F5F5?&style=flat-square&logo=spotify&logoColor=1ED760)](https://open.spotify.com/artist/6MPyQEZvgsZSYtJ3NXLmWM)
 
 ***
 <!--
