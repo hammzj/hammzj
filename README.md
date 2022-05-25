@@ -42,8 +42,6 @@
 - Academic All-American
 - Member of Campus Gardens, Computer Club, Service Leadership
 
-***
-
 ## What I use
 
 ### Languages
@@ -101,7 +99,7 @@
 [![DRY Programming Principles](https://img.shields.io/badge/Coding-DRY%20Programming%20Principles-FFD700?style=flat-square)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 [![SQL Data Analysis](https://img.shields.io/badge/Coding-Data%20Analysis%20And%20Reporting-FFD700?style=flat-square)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
-![Continuous Integration](https://img.shields.io/badge/DevOps-Continuous%20Integration%20Building-4682B4?style=flat-square)
+![Continuous Integration](https://img.shields.io/badge/DevOps-Continuous%20Integration-4682B4?style=flat-square)
 
 
 ***
