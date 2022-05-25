@@ -16,7 +16,7 @@
 #### Focused in
 - unit and integration test framework design
 - continuous delivery integration for development, testing, reporting, and deployment
-- test reporting and quality engineering
+- quality software engineering 
 - behavior-driven development with Cucumber framework and Gherkin language specificity
 - open-source contributions
 
