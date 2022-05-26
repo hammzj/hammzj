@@ -56,13 +56,15 @@ Automation Architect for healthcare native mobile applications
 
 #### DevOps and Continuous Integration
 
-[![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&logoColor=F5F5F5)](https://jenkins.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&logoColor=orange)](https://jenkins.io/)
 [![Docker](https://img.shields.io/badge/Docker-F5F5F5?style=for-the-badge&logo=docker&logoColor=2CA5E0)](https://www.docker.com/)
 [![Bitrise](https://img.shields.io/badge/Bitrise-760fc3?style=for-the-badge&logo=bitrise)](https://www.bitrise.io)
 
 #### IDE
 
 [![JetBrains](https://img.shields.io/badge/JetBrains%20Suite-173647?logo=jetbrains&style=for-the-badge)](https://www.jetbrains.com/)
+
+***
 
 ### Skills
 
