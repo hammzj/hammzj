@@ -6,124 +6,121 @@
 
 - automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
 - former athlete still striving to be competitive
-- art, history, sociology, constant pursuit of learning 
+- art, history, sociology, constant pursuit of learning
 - tattoos
 - retro and modern gaming
 - gardening
 - too much to name
 
+### Where I work
 
-#### Focused in
-- unit and integration test framework design
-- continuous delivery integration for development, testing, reporting, and deployment
-- test reporting and quality engineering
-- behavior-driven development with Cucumber framework and Gherkin language specificity
-- open-source contributions
+[![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=for-the-badge&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
 
-
-
-### Where I've worked
-
-[![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=flat-square&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
-
-[![Nationwide Insurance Company](https://img.shields.io/badge/Nationwide%20Insurance%20Company-Senior%20Application%20Developer-F5F5F5?style=flat-square&labelColor=0047bb)](https://www.nationwide.com/)
-
-[![Huntington National Bank](https://img.shields.io/badge/Huntington%20National%20Bank-Automation%20Developer%20Analyst-F5F5F5?style=flat-square&labelColor=rgb(91%2C%20166%2C%2069))](https://www.huntington.com/)
-
-![Ohio Valley Medical Center, Inc.](https://img.shields.io/badge/Ohio%20Valley%20Medical%20Center%2C%20Inc.-Data%20Analyst-F5F5F5?style=flat-square&labelColor=rgb(0%2C72%2C46))
-
+Automation Architect for healthcare native mobile applications
 
 ### Where I've studied
 
-[![Wheeling Jesuit University](https://img.shields.io/badge/University-Wheeling%20Jesuit%20Univeristy-%23d90937?style=flat-square)](https://wheeling.edu/)
+[![Wheeling Jesuit University](https://img.shields.io/badge/-Wheeling%20Jesuit%20Univeristy-%23d90937?style=for-the-badge)](https://wheeling.edu/)
+
 - Bachelors of Science in Computer Science
 - Minor in Theology
 - Student-athlete on men's swimming team
 - Academic All-American
 - Member of Campus Gardens, Computer Club, Service Leadership
 
-## What I use
+## What I use today
 
-### Languages
+#### Languages
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.com/html5/)
-[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks, Technologies & Tools
+#### Frameworks
 
-[![Android](https://img.shields.io/badge/Mobile-Android-3DDC84?style=flat-square&logo=android&logoColor=3DDC84)](https://www.android.com/)
-[![iOS](https://img.shields.io/badge/Mobile-iOS-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=F5FFFA)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=F5FFFA)](https://www.apple.com/ios/)
 
-[![Cypress](https://img.shields.io/badge/Automation-Cypress-17202C?style=flat-square&logo=cypress&logoColor=17202C)](https://www.cypress.io/)
-[![WebDriverIO](https://img.shields.io/badge/Automation-WebDriverIO-rgb(234%2C%2089%2C%206)?style=flat-square&logo=webdriverio&logoColor=rgb(234%2C%2089%2C%206))](https://www.webdriver.io/)
-[![Appium](https://img.shields.io/badge/Automation-Appium-rgb(124%2C%2074%2C%20161)?style=flat-square&logo=appium)](https://appium.io/)
-[![Selenium](https://img.shields.io/badge/Automation-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
+#### Tech Stack
 
+[![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-[![Cucumber](https://img.shields.io/badge/BDD-Cucumber-brightgreen?style=flat-square&logo=cucumber&labelColor=173647)](https://cucumber.io/)
-[![Chai Assertions](https://img.shields.io/badge/BDD-chai-A30701?style=flat-square&logo=chai&logoColor=white)](https://www.chaijs.com/)
-[![RSpec](https://img.shields.io/badge/BDD%20-RSpec-rgb(246%2C53%2C85)?style=flat-square&logo=rspec)](https://rspec.info/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)](https://www.cypress.io/)
+[![WebDriverIO](https://img.shields.io/badge/WebDriverIO-rgb(234%2C%2089%2C%206)?style=for-the-badge&logo=webdriverio&labelColor=F5FFFA)](https://www.webdriver.io/)
+[![Appium](https://img.shields.io/badge/Appium-rgb(124%2C%2074%2C%20161)?style=for-the-badge&logo=appium)](https://appium.io/)
 
+[![Cucumber](https://img.shields.io/badge/Cucumber-brightgreen?style=for-the-badge&logo=cucumber&labelColor=173647)](https://cucumber.io/)
+[![Chai Assertions](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=F5FFFA)](https://www.chaijs.com/)
 
-[![Jenkins](https://img.shields.io/badge/CI-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)](https://jenkins.io/)
-[![Docker](https://img.shields.io/badge/CI-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=2CA5E0)](https://www.docker.com/)
-[![Concourse](https://img.shields.io/badge/CI-Concourse-rgb(74%2C%20144%2C%20226)?logo=concourse&style=flat-square)](https://www.concourse-ci.org/)
-[![Bitrise](https://img.shields.io/badge/CI-Bitrise-760fc3?style=flat-square&logo=bitrise)](https://www.bitrise.io)
+[![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-![Microsoft SQL Server](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/DB-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+#### DevOps and Continuous Integration
 
-[![JetBrains](https://img.shields.io/badge/IDE-JetBrains%20Suite-173647?logo=jetbrains&style=flat-square)](https://www.jetbrains.com/)
-[![VSCode](https://img.shields.io/badge/IDE-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![XCode](https://img.shields.io/badge/IDE-Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&labelColor=F5FFFA)](https://jenkins.io/)
+[![Docker](https://img.shields.io/badge/Docker-F5FFFA?style=for-the-badge&logo=docker&logoColor=2CA5E0)](https://www.docker.com/)
+[![Bitrise](https://img.shields.io/badge/Bitrise-760fc3?style=for-the-badge&logo=bitrise)](https://www.bitrise.io)
 
-## Skills
-![Automation Framework Architecture](https://img.shields.io/badge/Quality%20Engineering-Framework%20Architecture%20-663399?style=flat-square)
-![Browser Automation](https://img.shields.io/badge/Quality%20Engineering-Browser%20Automation%20-663399?style=flat-square)
-![Native Mobile App Automation](https://img.shields.io/badge/Quality%20Engineering-Native%20Mobile%20App%20Automation%20-663399?style=flat-square)
-![ETL and Data Transformation Testing](https://img.shields.io/badge/Quality%20Engineering-ETL/Data%20Engineering%20Automation%20-663399?style=flat-square)
+#### IDE
 
-![Quality Assurance Strategy](https://img.shields.io/badge/Testing-Quality%20Assurance%20Strategy-6B8E23?style=flat-square)
-![Unit Testing](https://img.shields.io/badge/Testing-%20Unit%20And%20Spec-6B8E23?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/Testing-%20Integration-6B8E23?style=flat-square)
-![End-to-End Testing](https://img.shields.io/badge/Testing-End--to--end-6B8E23?style=flat-square)
-![Accessibility Testing](https://img.shields.io/badge/Testing-%20Accessibility-6B8E23?style=flat-square)
-![UI/UX Testing](https://img.shields.io/badge/Testing-UI/UX-6B8E23?style=flat-square)
-![Data Quality Testing](https://img.shields.io/badge/Testing-Data%20Quality%20And%20ETL-6B8E23?style=flat-square)
+[![JetBrains](https://img.shields.io/badge/JetBrains%20Suite-173647?logo=jetbrains&style=for-the-badge)](https://www.jetbrains.com/)
 
-![Object Oriented Programming Paradigms](https://img.shields.io/badge/Coding-Object%20Oriented%20Paradigms-FFD700?style=flat-square)
-[![DRY Programming Principles](https://img.shields.io/badge/Coding-DRY%20Programming%20Principles-FFD700?style=flat-square)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-[![SQL Data Analysis](https://img.shields.io/badge/Coding-Data%20Analysis%20And%20Reporting-FFD700?style=flat-square)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+### Skills
 
-![Continuous Integration](https://img.shields.io/badge/DevOps-Continuous%20Integration-4682B4?style=flat-square)
+##### Quality Engineering
+
+![Automation Framework Architecture](https://img.shields.io/badge/-Framework%20Architecture%20-663399?style=for-the-badge)
+![Browser Automation](https://img.shields.io/badge/-Browser%20Automation%20-663399?style=for-the-badge)
+![Native Mobile App Automation](https://img.shields.io/badge/-Native%20Mobile%20App%20Automation%20-663399?style=for-the-badge)
+![ETL and Data Transformation Testing](https://img.shields.io/badge/-ETL/Data%20Engineering%20Automation%20-663399?style=for-the-badge)
+
+#### Testing capabilities with automation technologies
+
+![Quality Assurance Strategy](https://img.shields.io/badge/-Quality%20Assurance%20Strategy-6B8E23?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/-%20Unit%20And%20Spec-6B8E23?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/-%20Integration-6B8E23?style=for-the-badge)
+![End-to-End Testing](https://img.shields.io/badge/-End--to--end-6B8E23?style=for-the-badge)
+![Accessibility Testing](https://img.shields.io/badge/-%20Accessibility-6B8E23?style=for-the-badge)
+![UI/UX Testing](https://img.shields.io/badge/-UI/UX-6B8E23?style=for-the-badge)
+![Data Quality Testing](https://img.shields.io/badge/-Data%20Quality%20And%20ETL-6B8E23?style=for-the-badge)
+
+#### Software Paradigms
+
+![Object Oriented Programming Paradigms](https://img.shields.io/badge/-Object%20Oriented%20Paradigms-FFD700?style=for-the-badge)
+[![DRY Programming Principles](https://img.shields.io/badge/-DRY%20Programming%20Principles-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+[![SQL Data Analysis](https://img.shields.io/badge/-Data%20Analysis%20And%20Reporting-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+#### DevOps
+
+![Continuous Integration](https://img.shields.io/badge/-Continuous%20Integration-4682B4?style=for-the-badge)
+![Continuous Integration](https://img.shields.io/badge/-Reporting-4682B4?style=for-the-badge)
 
 
 ***
 
 ## Contact Me
+[![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-F5F5F5?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
+[![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-F5F5F5?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/zjhamm)
 
-### About
 
+<details>
+<summary><b>About</b></summary>
 
 - open-source contributions
 - test strategy, design, and quality engineering questions
 - JavaScript and Ruby development questions
 - object-oriented design paradigms and modeling
 - UI/UX testing
-- music production and anything music-related
+- music production
 - anything else interesting
 
 
+<!--
+[![Spotify Artist](https://img.shields.io/badge/Spotify-Antisocial%20Rebellion-F5F5F5?&style=for-the-badge&logo=spotify&logoColor=1ED760&labelColor=0A0A0A)](https://open.spotify.com/artist/6MPyQEZvgsZSYtJ3NXLmWM)
+-->
+</details>
 
-[![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-F5F5F5?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-F5F5F5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
-[![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-F5F5F5?style=flat-square&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/zjhamm)
 
-[![Spotify Artist](https://img.shields.io/badge/Spotify-Antisocial%20Rebellion-F5F5F5?&style=flat-square&logo=spotify&logoColor=1ED760)](https://open.spotify.com/artist/6MPyQEZvgsZSYtJ3NXLmWM)
 
 ***
 <!--
