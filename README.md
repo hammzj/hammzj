@@ -32,8 +32,8 @@ Automation Architect for healthcare native mobile applications
 
 #### Languages
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F5F5F5)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F5F5F5)](https://www.typescriptlang.org/)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Frameworks
@@ -45,8 +45,8 @@ Automation Architect for healthcare native mobile applications
 
 [![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)](https://www.cypress.io/)
-[![WebDriverIO](https://img.shields.io/badge/WebDriverIO-rgb(234%2C%2089%2C%206)?style=for-the-badge&logo=webdriverio&labelColor=F5FFFA)](https://www.webdriver.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=F5F5F5)](https://www.cypress.io/)
+[![WebDriverIO](https://img.shields.io/badge/WebDriverIO-rgb(234%2C%2089%2C%206)?style=for-the-badge&logo=webdriverio&labelColor=F5F5F5)](https://www.webdriver.io/)
 [![Appium](https://img.shields.io/badge/Appium-rgb(124%2C%2074%2C%20161)?style=for-the-badge&logo=appium)](https://appium.io/)
 
 [![Cucumber](https://img.shields.io/badge/Cucumber-brightgreen?style=for-the-badge&logo=cucumber&labelColor=173647)](https://cucumber.io/)
@@ -56,8 +56,8 @@ Automation Architect for healthcare native mobile applications
 
 #### DevOps and Continuous Integration
 
-[![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&labelColor=F5FFFA)](https://jenkins.io/)
-[![Docker](https://img.shields.io/badge/Docker-F5FFFA?style=for-the-badge&logo=docker&logoColor=2CA5E0)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&logoColor=F5F5F5)](https://jenkins.io/)
+[![Docker](https://img.shields.io/badge/Docker-F5F5F5?style=for-the-badge&logo=docker&logoColor=2CA5E0)](https://www.docker.com/)
 [![Bitrise](https://img.shields.io/badge/Bitrise-760fc3?style=for-the-badge&logo=bitrise)](https://www.bitrise.io)
 
 #### IDE
