@@ -4,13 +4,13 @@
 
 🌜🎶🎵🌛
 
-- automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
-- former athlete still striving to be competitive
-- art, history, sociology, constant pursuit of learning
-- tattoos
-- retro and modern gaming
-- gardening
-- too much to name
+- Automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
+- Former athlete still striving to be competitive
+- Art, history, sociology, constant pursuit of learning
+- Tattoos
+- Retro and modern gaming
+- Gardening
+- Too much more to name
 
 ### Where I work
 
