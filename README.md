@@ -6,7 +6,7 @@
 
 - Automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
 - Former athlete still striving to be competitive
-- Art, history, sociology, constant pursuit of learning
+- Interested in modern music, art, history, sociology, constant pursuit of learning
 - Tattoos
 - Retro and modern gaming
 - Gardening
