@@ -51,6 +51,7 @@ Automation Architect for healthcare mobile applications
 [![Cucumber](https://img.shields.io/badge/Cucumber-173647?style=for-the-badge&logo=cucumber&logoColor=brightgreen)](https://cucumber.io/)
 [![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+***
 
 <!--
 https://www.visitorbadge.io/
