@@ -1,4 +1,5 @@
 # Zachary Hamm
+
 [![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-F5F5F5?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
 [![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-F5F5F5?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/hammzj)
@@ -32,7 +33,7 @@ Automation Architect for healthcare mobile applications
 - Academic All-American
 - Member of Campus Gardens, Computer Club, Service Leadership
 
-## What I use today
+## What I currently use
 
 #### Languages
 
@@ -51,4 +52,14 @@ Automation Architect for healthcare mobile applications
 [![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
+<!--
+https://www.visitorbadge.io/
+Want to keep track of your visitors?
+You can keep track of your total hits and seven day visitor overview on our status page:
+https://visitorbadge.io/status?path=https://github.com/hammzj
+You can also make use of our API to receive the information if you want to integrate it in your system. The API is available at:
+https://api.visitorbadge.io/api/status?path=https://github.com/hammzj - GET
+-->
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhammzj&label=Visitors&countColor=%23daa520)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhammzj)
 
