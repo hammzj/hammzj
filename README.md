@@ -23,16 +23,6 @@
 
 Automation Architect for healthcare mobile applications
 
-### Where I've studied
-
-[![Wheeling Jesuit University](https://img.shields.io/badge/-Wheeling%20Jesuit%20Univeristy-%23d90937?style=for-the-badge)](https://wheeling.edu/)
-
-- Bachelors of Science in Computer Science
-- Minor in Theology
-- Student-athlete on men's swimming team
-- Academic All-American
-- Member of Campus Gardens, Computer Club, Service Leadership
-
 ## What I currently use
 
 #### Languages
