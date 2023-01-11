@@ -21,8 +21,6 @@
 
 [![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=for-the-badge&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
 
-Software Engineering as an automation framework architect
-
 ## What I currently use
 
 #### Languages
