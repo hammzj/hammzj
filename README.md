@@ -21,7 +21,7 @@
 
 [![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=for-the-badge&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
 
-## What I currently use
+## What I am currently using here
 
 #### Languages
 
@@ -38,6 +38,7 @@
 [![Appium](https://img.shields.io/badge/Appium-rgb(124%2C%2074%2C%20161)?style=for-the-badge&logo=appium)](https://appium.io/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-173647?style=for-the-badge&logo=cucumber&logoColor=brightgreen)](https://cucumber.io/)
 [![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
 
 ***
 
