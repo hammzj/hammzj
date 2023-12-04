@@ -21,15 +21,15 @@
 
 [![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=for-the-badge&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
 
-## What I am currently using here
+#### What I am currently using at work
 
-#### Languages
+##### Languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F5F5F5)](https://www.typescriptlang.org/)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Frameworks
+##### Frameworks
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=F5FFFA)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=F5FFFA)](https://www.apple.com/ios/)
