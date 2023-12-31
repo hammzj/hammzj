@@ -9,7 +9,8 @@
 
 🌜🎶🎵🌛
 
-- Automation architect, software engineer, musician, audio producer, songwriter, etc. etc. etc.
+- Modern software engineer
+- Musician, amateur audio producer, songwriter, etc.
 - Former athlete still striving to be competitive
 - Interested in modern music, art, history, sociology, constant pursuit of learning
 - Tattoos
@@ -37,7 +38,7 @@
 [![WebDriverIO](https://img.shields.io/badge/WebDriverIO-rgb(234%2C%2089%2C%206)?style=for-the-badge&logo=webdriverio&logoColor=white)](https://www.webdriver.io/)
 [![Appium](https://img.shields.io/badge/Appium-rgb(124%2C%2074%2C%20161)?style=for-the-badge&logo=appium)](https://appium.io/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-173647?style=for-the-badge&logo=cucumber&logoColor=brightgreen)](https://cucumber.io/)
-[![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Postgres SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
 
 ***
