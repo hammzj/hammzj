@@ -41,7 +41,6 @@
 [![Cucumber](https://img.shields.io/badge/Cucumber-173647?style=for-the-badge&logo=cucumber&logoColor=brightgreen)](https://cucumber.io/)
 [![Postgres SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github)](https://docs.github.com/en/actions)
-
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
 
 ***
