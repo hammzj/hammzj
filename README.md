@@ -20,7 +20,7 @@
 
 ### Where I work
 
-[![Validic](https://img.shields.io/badge/Validic-Software%20Engineer%20II-F5F5F5?style=for-the-badge&labelColor=rgb(4%2C%2070%2C%20115))](https://validic.com/)
+[![Polly](https://img.shields.io/badge/Polly-Staff%20Software%20Engineer-141414?style=for-the-badge&labelColor=75FDEF)](https://polly.io/)
 
 #### What I am currently using at work
 
@@ -30,18 +30,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F5F5F5)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React.js-087EA4?style=for-the-badge&logo=react&logoColor=white)](https://www.javascript.com/)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-##### Frameworks
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=F5FFFA)](https://www.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=F5FFFA)](https://www.apple.com/ios/)
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=F5F5F5)](https://www.cypress.io/)
-[![WebDriverIO](https://img.shields.io/badge/WebDriverIO-rgb(234%2C%2089%2C%206)?style=for-the-badge&logo=webdriverio&logoColor=white)](https://www.webdriver.io/)
-[![Appium](https://img.shields.io/badge/Appium-rgb(124%2C%2074%2C%20161)?style=for-the-badge&logo=appium)](https://appium.io/)
-[![Cucumber](https://img.shields.io/badge/Cucumber-173647?style=for-the-badge&logo=cucumber&logoColor=brightgreen)](https://cucumber.io/)
-[![Postgres SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github)](https://docs.github.com/en/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
 
 ***
 
