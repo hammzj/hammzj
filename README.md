@@ -29,6 +29,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F5F5F5)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-303B5B?style=for-the-badge&logo=vuedotjs&logoColor=5AB484)](https://vuejs.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=F5F5F5)](https://www.cypress.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github)](https://docs.github.com/en/actions)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ***
