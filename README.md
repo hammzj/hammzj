@@ -1,9 +1,6 @@
 # Zachary Hamm
 
-[![Email](https://img.shields.io/badge/Email-zjhamm304+hello@gmail.com-F5F5F5?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:zjhamm304+hello@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@hammzj-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammzachj/)
-[![Dev.to](https://img.shields.io/badge/dev.to-@zjhamm-F5F5F5?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/hammzj)
-
+[![Email](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&labelColor=EA4335)](https://zacharyhamm.com)
 
 ## Who I am
 
