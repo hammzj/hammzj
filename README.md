@@ -21,8 +21,6 @@
 
 #### What I am currently using at work
 
-##### Languages
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F5F5F5)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-303B5B?style=for-the-badge&logo=vuedotjs&logoColor=5AB484)](https://vuejs.org/)
