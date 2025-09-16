@@ -38,7 +38,8 @@ You can keep track of your total hits and seven day visitor overview on our stat
 https://visitorbadge.io/status?path=https://github.com/hammzj
 You can also make use of our API to receive the information if you want to integrate it in your system. The API is available at:
 https://api.visitorbadge.io/api/status?path=https://github.com/hammzj - GET
--->
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhammzj&label=Visitors&countColor=%23daa520)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhammzj)
 
+-->
