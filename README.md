@@ -1,6 +1,6 @@
 # Zachary Hamm
 
-[![Email](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&labelColor=EA4335)](https://zacharyhamm.com)
+https://zacharyhamm.com
 
 ## Who I am
 
